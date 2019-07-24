@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Дошкольники",
+    "incoming": 21,
+    "in_work": 4,
+    "payment": 21,
+    "archive": 49
+  },
+  {
+    "name": "Школьники",
+    "incoming": 21,
+    "in_work": 4,
+    "payment": 21,
+    "archive": 49
+  },
+  {
+    "name": "Другие возраста",
+    "incoming": 21,
+    "in_work": 4,
+    "payment": 21,
+    "archive": 49
+  }
+]

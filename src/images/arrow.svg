@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="3.34375 12 3.34375 2.5625 0.9375 4.9375 0 4 4 0 8 4 7.0625 4.9375 4.65625 2.5625 4.65625 12"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Arrow/up" transform="translate(-8.000000, -6.000000)">
+            <g id="Group" transform="translate(8.000000, 6.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#333333" xlink:href="#path-1"></use>
+                <g id="ð¨icon-color/dark" mask="url(#mask-2)" fill="#333333">
+                    <g transform="translate(-32.000000, -30.000000)" id="Icon-Shade">
+                        <rect x="0" y="0" width="72" height="72"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
